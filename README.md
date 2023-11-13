@@ -12,7 +12,10 @@ This is a small web application so you can parse Pinata data faster than like po
 - make sure its mobile compatible
 - do some restyling to make it look cleaner and easier to read
 - probably serve it somewhere outside of github pages
+- add icons for each pinata
 
 ## Questions, Comments, Requests
 
 If you have any questions or things you would like to see added, just create an issue, and I'll get to it as soon as possible! if you want to contribute, feel free to make a fork and a pull request if you add anything!
+
+1a202c

@@ -1,0 +1,1599 @@
+[
+	{
+		"Name": "Arocknid",
+		"Cost": "1500",
+		"Appear Requirements": ["Level 6 Gardener"],
+		"Unblock Requirements": "Pay Willy 1k to knockdown brick wall",
+		"Visit Requirements": ["Have 4 Tafflies or Raisants"],
+		"Resident Requirements": ["Eat 2 Raisants or 2 Tafflies"],
+		"Romance Requirements": ["Eat 2 Buzzlegums"],
+		"Notes": "Fights: Reddhotts",
+		"Variants": [
+			"Bluebell Flower",
+			"Water Lily Flower",
+			"Jack o' Lantern (Pumpkin)"
+		],
+		"Tricks": ["Bispotti", "Chili"],
+		"Related": ["Bispotti", "Buzzlegum", "Taffly", "Raisant", "Reddhott"]
+	},
+	{
+		"Name": "Badgesicle",
+		"Cost": "1500",
+		"Appear Requirements": ["Have Blackberry Bush"],
+		"Visit Requirements": ["Have Blackberry Bush", "Have 3 Geckies"],
+		"Resident Requirements": ["Eat 1 Geckie", "Eat 2 Blackberries"],
+		"Romance Requirements": ["Eat 2 Tulip Seeds, Eat 1 Lemmoning"],
+		"Notes": "Fights: Syrupent, Helpers",
+		"Variants": ["Bluebell Flower", "Apple Water", "Lily Flower"],
+		"Tricks": ["Fudgehog", "Arocknid"],
+		"Related": ["Fudgehog", "Arocknid", "Geckie", "Syrupent", "lemmoning"]
+	},
+	{
+		"Name": "Barkbark",
+		"Cost": "2100",
+		"Appear Requirements": ["Have Kittyfloss"],
+		"Unblock Requirements": "Scare Ruffian with 5 Buzzlegums",
+		"Visit Requirements": ["Have 3 KittyFlosses"],
+		"Resident Requirements": ["Eat 1 Jelly (Bone)", "Eat 2 Bones"],
+		"Romance Requirements": ["Wearing Collar", "Won fight with Kittyfloss"],
+		"Notes": "Fights: Kittyfloss, Roario",
+		"Variants": [
+			"Banana Split (Banana)",
+			"Medicine (Honey)",
+			"Poison Ivy Flower"
+		],
+		"Tricks": ["Milk", "Wool"],
+		"Related": ["Buzzlegum", "Kittyfloss", "Roario"]
+	},
+	{
+		"Name": "Bispotti",
+		"Cost": "300",
+		"Appear Requirements": ["Have any Flower"],
+		"Visit Requirements": ["Have any 2 Flowers"],
+		"Resident Requirements": ["Have 3 Poppies"],
+		"Romance Requirements": ["Eat 1 Daisy Flower"],
+		"Notes": "Fights: Kittyfloss, Roario",
+		"Variants": ["Bluebell Seed", "Bread (Corn)", "Watercress Flower"],
+		"Tricks": ["Hollybush seed", "Bluebell Flower"],
+		"Related": ["Kittyfloss", "Roario"]
+	},
+	{
+		"Name": "Bonboon",
+		"Cost": "3600",
+		"Appear Requirements": ["Tame Sour", "Have had Bonboon"],
+		"Visit Requirements": ["Have Monkeynut Tree", "Have Banana Tree"],
+		"Resident Requirements": ["Eat 7 Monkeynuts", "Eat 7 Bananas"],
+		"Romance Requirements": ["Eat 3 Jameleons"],
+		"Notes": "Breaks up fights",
+		"Variants": ["Orchid Flower", "Bluebell Flower", "Bird of Paradise seed"],
+		"Tricks": ["Fireweed Seed", "Fireweed Flower"],
+		"Related": ["Jameleon"]
+	},
+	{
+		"Name": "Bonnycomb",
+		"Cost": "600",
+		"Appear Requirements": ["Have Carrot"],
+		"Visit Requirements": ["Have Carrot"],
+		"Resident Requirements": ["4% Grass", "Eat 2 Carrots"],
+		"Romance Requirements": ["6% Grass", "Eat 1 Radish"],
+		"Notes": "Fights: Pretztail",
+		"Variants": ["Pumpkin", "Water Lily Flower", "Gooseberry Seed"],
+		"Tricks": ["Dandelion Seed", "Dandelion Flower"],
+		"Related": ["Pretztail"]
+	},
+	{
+		"Name": "Buzzenge",
+		"Cost": "2100",
+		"Appear Requirements": ["Have Candary"],
+		"Visit Requirements": ["Have 4 Carndaries"],
+		"Resident Requirements": ["Eat 2 Candaries", "Eat 1 Sparrowmint"],
+		"Romance Requirements": [
+			"Eat 1 Pudgeon",
+			"Eat 1 Robean",
+			"Eat 1 Tartridge"
+		],
+		"Notes": "Fights: Eaglair",
+		"Variants": ["Buttercup Flower", "Bluebell Seed", "Medicine (Honey)"],
+		"Tricks": ["Flutterscotch", "Taffly"],
+		"Related": [
+			"Eaglair",
+			"Candary",
+			"Sparrowmint",
+			"Flutterscotch",
+			"Taffly",
+			"Pudgeon",
+			"Robean",
+			"Tartridge"
+		]
+	},
+	{
+		"Name": "Buzzlegum",
+		"Cost": "1000",
+		"Appear Requirements": ["Have 1 Sunflower"],
+		"Visit Requirements": ["Have 2 Sunflowers"],
+		"Resident Requirements": ["Eat 1 Sunflower"],
+		"Romance Requirements": ["Eat 1 Buttercup Flower", "Eat 1 Tulip Flower"],
+		"Notes": "Fights: Raisant",
+		"Variants": ["Venus Pinata Flower", "Medicine (Honey)", "Gem Tree Seed"],
+		"Tricks": ["Honey", "Sandwich"],
+		"Related": ["Raisant"]
+	},
+	{
+		"Name": "Camello",
+		"Cost": "3600",
+		"Appear Requirements": ["Level 15 Gardener"],
+		"Visit Requirements": ["Trap using Yam as Bait in Desert"],
+		"Resident Requirements": [
+			"20% Sand",
+			"Eat 2 Coffee (Acorn)s",
+			"Eat 3 Cactus Flowers"
+		],
+		"Romance Requirements": [
+			"25% Sand",
+			"Eat 3 Coconut Macaroons (Coconut)",
+			"Wearing Cool Shades",
+			"Wearing Sombrero"
+		],
+		"Variants": [
+			"Jack o' Lantern (Pumpkin)",
+			"Bluebell Seed",
+			"Water Lily Seed"
+		],
+		"Tricks": ["Palm Tree Seed", "Cactus Seed"]
+	},
+	{
+		"Name": "Candary",
+		"Cost": "600",
+		"Resident Requirements": ["Evolve: Feed Sparrowmint a Dandelion Flower"],
+		"Romance Requirements": ["Eat 1 Yellow Flutterscotch"],
+		"Notes": "Fights: Buzzenge",
+		"Variants": [
+			"Bluebell Flower",
+			"Water Lily Seed",
+			"Gooseberry Fool (Gooseberry)"
+		],
+		"Tricks": ["Dandelion Seed", "Dandelion Flower"],
+		"Related": ["Sparrowmint", "Buzzenge", "Flutterscotch"]
+	},
+	{
+		"Name": "Cherrapin",
+		"Cost": "1500",
+		"Appear Requirements": ["5% Sand", "5% Water", "Have Water Lily"],
+		"Visit Requirements": ["7% Sand", "7% Water", "Have 2 Water Lilies"],
+		"Resident Requirements": [
+			"10% Sand",
+			"10% Water",
+			"Eat 3 Water Lily Flowers"
+		],
+		"Romance Requirements": [
+			"Wearing Belly Splash Specials",
+			"Eaten Lickatoad Egg"
+		],
+		"Notes": "''",
+		"Variants": ["Muffin (Blueberry)", "Honey", "Gooseberry"],
+		"Tricks": ["Watercress Seed", "Watercress Flower"],
+		"Related": ["Lickatoad"]
+	},
+	{
+		"Name": "Chewnicorn",
+		"Cost": "4500",
+		"Appear Requirements": ["Horstachio Master Breeder"],
+		"Visit Requirements": ["Have Gem Tree"],
+		"Resident Requirements": ["Eat 9 Gems", "Have Mature Gem Tree"],
+		"Romance Requirements": ["Eat 3 Rainbow Gems (Gem)s"],
+		"Notes": "Fights: Zumbug",
+		"Variants": ["Bluebell Flower", "Ear of Corn", "Water Lily Seed"],
+		"Tricks": ["Orchid Flower", "Jam (Blackberry)"],
+		"Related": ["Horstachio", "Zumbug"]
+	},
+	{
+		"Name": "Chippopotamus",
+		"Cost": "3600",
+		"Appear Requirements": ["40% water"],
+		"Unblock Requirements": "50% Water, Have 9 Watercresses, Have 9 Lilies, Have 9 Bullrushes",
+		"Visit Requirements": [
+			"60% Water",
+			"Eat 9 Watercress Flowers",
+			"Eat 9 Lily Flowers",
+			"Eat 9 Bullrush Heads"
+		],
+		"Resident Requirements": [
+			"70% Water",
+			"Candary Master Breeder",
+			"Have 1 Candary",
+			"Eat 4 Bird of Paradise Flowers"
+		],
+		"Romance Requirements": ["Mushroom (Toadstool)"],
+		"Variants": ["Water Lily Seed", "Jam (Blackberry)", "Watercress Seed"],
+		"Tricks": ["Bullrush Seed", "Note: Stomps Small Pinatas"],
+		"Related": ["Candary"]
+	},
+	{
+		"Name": "Chocodoculus",
+		"Cost": "''",
+		"Appear Requirements": [
+			"Ingredients: Buy Red Bone",
+			"Dig up Blue Bone",
+			"Dig up Green Bone",
+			"Drop 9",
+			"999 in well to get Amber Gem from Well",
+			"Note: Bones do not have to be different colors."
+		],
+		"Visit Requirements": [
+			"Tinker the three bones",
+			"and place them with the gem into the storehouse. They will change to an egg."
+		],
+		"Resident Requirements": [
+			"Place Jurassic Hair on Cluckles",
+			"and have hatch egg."
+		],
+		"Romance Requirements": [
+			"To Mature: Feed Milk",
+			"Bone",
+			"Geckie",
+			"Cocoadile",
+			"Jameleon"
+		],
+		"Notes": "Note: You only get one Chocodoculus per game",
+		"Variants": [
+			"1st bone is head: red - Triceratops, blue - Stegosaurus, green - Brontosaurus",
+			"2nd bone is ribs: red - long tail, blue - spikey tail, green - stubby tail",
+			"3rd bone is spine: red - Turns it purple, blue - Turns it Blue, green - Turns it Green"
+		],
+		"Tricks": ["Ruby", "Diamond"],
+		"Related": ["Geckie", "Cocoadile", "Jameleon", "Cluckles"]
+	},
+	{
+		"Name": "Chocstrich",
+		"Cost": "2800",
+		"Appear Requirements": ["Evolve: Feed Cluckles 2 Cactus Seeds"],
+		"Visit Requirements": ["Trap using Yam as Bait in Desert"],
+		"Resident Requirements": ["2% Sand", "Eat 3 Cactus Seeds"],
+		"Romance Requirements": ["15% Sand", "Eat 2 S'morepions", "Eat 3 Raisants"],
+		"Notes": "Fights: Pieena, Pretztail",
+		"Variants": ["Tiger Lily Flower", "Medicine (Honey)", "Muffin (Blueberry)"],
+		"Tricks": ["Cactus Seed", "Cactus"],
+		"Related": ["Cluckles", "Pieena", "Pretztail"]
+	},
+	{
+		"Name": "Cinnamonkey",
+		"Cost": "2800",
+		"Appear Requirements": ["Have Monkeynut Tree"],
+		"Visit Requirements": [
+			"Have Barrel",
+			"Have 5 Monkeynuts",
+			"Have Banana Tree"
+		],
+		"Resident Requirements": ["Eat 3 Bananas", "Eat 4 Monkeynuts"],
+		"Romance Requirements": ["Wearing a Fez", "Eat 4 Oranges"],
+		"Notes": "Fights: Bonboon",
+		"Variants": ["Chili", "Blackberry Seed", "Water Lily Flower"],
+		"Tricks": ["Banana Split (Banana)", "Peanut Butter (Monkeynut)"],
+		"Related": ["Bonboon"]
+	},
+	{
+		"Name": "Cluckles",
+		"Cost": "1000",
+		"Appear Requirements": ["Have 1 Corn Plant"],
+		"Visit Requirements": ["Have no Pretztails", "Have 3 Corn Plants"],
+		"Resident Requirements": ["Have no Pretztails", "Eat 3 Corns"],
+		"Romance Requirements": ["Eat 2 Whirlms", "Eat 1 Pumpkin Seed"],
+		"Notes": "Fights: Pretztail, Evolve: Feed 2 Cactus Seeds, to evolve into Chocstrich, Note: Can be used to hatch eggs",
+		"Variants": ["Bluebell Seed", "Oak Tree Seed", "Medicine (Honey)"],
+		"Tricks": ["Corn Seed", "Pumpkin"],
+		"Related": ["Pretztail", "Chocstrich"]
+	},
+	{
+		"Name": "Cocoadile",
+		"Cost": "2100",
+		"Appear Requirements": ["Tame Sour", "Have had Cocoadile"],
+		"Visit Requirements": ["16% Water", "Have 5 Quackberries"],
+		"Resident Requirements": [
+			"19% Water",
+			"Eat 1 Sweetooth",
+			"Eat 1 Quackberry"
+		],
+		"Romance Requirements": [
+			"22% Water",
+			"Wearing Bling Teeth",
+			"Eat 1 Swanana"
+		],
+		"Notes": "Note: Cocoadile Tears can be used as fertilizer.",
+		"Variants": ["Water Lily Seed", "Bluebell Flower", "Buttercup Seed"],
+		"Tricks": ["Prickly Pear Seed", "Thistle Flower"],
+		"Related": ["Quackberry", "Sweetooth", "Swanana"]
+	},
+	{
+		"Name": "Crowla",
+		"Cost": "1500",
+		"Appear Requirements": ["Tame Sour", "Have had Crowla"],
+		"Visit Requirements": ["Have 2 Lickatoads", "Have Birdbath"],
+		"Resident Requirements": ["Eat 2 Lickatoads"],
+		"Romance Requirements": ["Eat 2 Shellybeans"],
+		"Notes": "Note: Can hassle Distardos",
+		"Variants": [
+			"Water Lily Flower",
+			"Bird of Paradise Flower",
+			"Bluebell Seed"
+		],
+		"Tricks": ["Fireweed Seed", "Fireweed Flower"],
+		"Related": ["Lickatoad", "Shellybean", "Sour Crowla"]
+	},
+	{
+		"Name": "Custacean",
+		"Cost": "1000",
+		"Appear Requirements": ["2% Sand", "2% Water"],
+		"Visit Requirements": ["10% Sand", "10% Water"],
+		"Resident Requirements": ["12% Sand", "12% Water", "Have Surfboard"],
+		"Romance Requirements": ["Eat 2 Apples", "Eat 1 Watercress Flower"],
+		"Variants": ["Jam (Blackberry)", "Mushroom (Toadstool)", "Orchid Flower"],
+		"Tricks": ["Water Lily Seed", "Water Lily Flower"]
+	},
+	{
+		"Name": "Doenut",
+		"Cost": "2100",
+		"Appear Requirements": ["6% Long Grass"],
+		"Visit Requirements": [
+			"8% Long Grass",
+			"Have 10 Blueberries or 5 Bluebells"
+		],
+		"Resident Requirements": [
+			"10% Long Grass",
+			"Eat 5 Blueberries or 2 Bluebells"
+		],
+		"Romance Requirements": ["Eat 1 Sunflower", "Eat a Rose Flower"],
+		"Notes": "Evolve: Feed 1 Fir Tree Seed to evolve into a Moojoo",
+		"Variants": [
+			"Ear of Corn",
+			"Oak Tree Seed",
+			"Gooseberry Fool (Gooseberry)"
+		],
+		"Tricks": ["Blackberry", "Gooseberry"],
+		"Related": ["Moojoo"]
+	},
+	{
+		"Name": "Dragonache",
+		"Cost": "''",
+		"Visit Requirements": [
+			"Dragonache Egg found by Diggerling and hatch with Cluckles"
+		],
+		"Resident Requirements": [
+			"To Mature: Dragumfly",
+			"Salamango",
+			"Reddhott",
+			"Snapdragon Flower",
+			"Milk"
+		],
+		"Notes": "Brown - Soil, Green - Grass, White - Snow, Yellow - Sandm Blue - Water",
+		"Variants": ["See Notes", "See Notes", "See Notes"],
+		"Tricks": ["Acorn", "Pigxie"],
+		"Related": ["Dragumfly", "Salamango", "Reddhott", "Pigxie"]
+	},
+	{
+		"Name": "Dragumfly",
+		"Cost": "2800",
+		"Appear Requirements": ["Level 26 Gardener"],
+		"Unblock Requirements": "Melt ice block by having 5 Reddhotts.",
+		"Visit Requirements": ["15% Water"],
+		"Resident Requirements": [
+			"20% Water",
+			"Have 12 Bullrushes",
+			"Win fight against Reddhott."
+		],
+		"Romance Requirements": [
+			"25% Water",
+			"Eat 1 Buzzlegum",
+			"Eat 1 Raisant",
+			"Eat 1 Snapdragon Flower"
+		],
+		"Notes": "Fights: Redhott",
+		"Variants": ["Pumpkin", "Bluebell Seed", "Poison Ivy Flower"],
+		"Tricks": ["Taffly", "White Flutterscotch"],
+		"Related": [
+			"Reddhott",
+			"Taffly",
+			"White Flutterscotch",
+			"Raisant",
+			"Buzzlegum"
+		]
+	},
+	{
+		"Name": "Eaglair",
+		"Cost": "4500",
+		"Appear Requirements": ["Have Oak Tree"],
+		"Unblock Requirements": "Scare ruffian with 5 Elephanillas.",
+		"Visit Requirements": ["Have 5 different species"],
+		"Resident Requirements": [
+			"Have 10 different species",
+			"Eat 2 Cinnamonkeys",
+			"Eat 2 Parrybos"
+		],
+		"Romance Requirements": ["Have 2 Mature Oak Trees", "Eat 2 Galagoogoos"],
+		"Notes": "''",
+		"Variants": ["Buttercup Seed", "Bluebell Seed", "Milk"],
+		"Tricks": ["Bird of Paradise Flower", "Sunflower"],
+		"Related": ["Elephanilla", "Cinnamonkey", "Parrybo", "Galagoogoo"]
+	},
+	{
+		"Name": "Elephanilla",
+		"Cost": "4500",
+		"Appear Requirements": [
+			"Have Banana Tree",
+			"Have Chili Plant",
+			"Have Palm Tree"
+		],
+		"Unblock Requirements": "Clear rock by having 5 Salamangos,",
+		"Visit Requirements": [
+			"Have 2 Bananas",
+			"Have 2 Chilis",
+			"Have 2 Coconuts"
+		],
+		"Resident Requirements": [
+			"Eat 4 Bananas",
+			"Eat 4 Chilis",
+			"Eat 4 Coconuts"
+		],
+		"Romance Requirements": [
+			"Eat 3 Gems",
+			"Eat 3 Peas",
+			"Eat 3 Acorns",
+			"Wearing Ballet Shoes"
+		],
+		"Notes": "''",
+		"Variants": ["Bluebell Flower", "Buttercup Flower", "Poppy Seed"],
+		"Tricks": ["Apple Seed", "Apple"],
+		"Related": ["Salamango"]
+	},
+	{
+		"Name": "Fizzlybear",
+		"Cost": "2800",
+		"Appear Requirements": [
+			"Have Honey Hive",
+			"Have 3 Buzzlegums",
+			"Have Buzzlegum House"
+		],
+		"Unblock Requirements": "Clear fallen tree by having 5 Sweetooths.",
+		"Visit Requirements": ["Have 3 Jars of Honey", "Have 4 Prickly Pears"],
+		"Resident Requirements": [
+			"Eat 2 Jars of Honey",
+			"Eat 2 Prickly Pears",
+			"Eat 2 Raisants"
+		],
+		"Romance Requirements": [
+			"Eat 2 Custaceans",
+			"Wearing Breegull Carrier",
+			"Wearing Shark necklace",
+			"Wearing Jiggy earrings."
+		],
+		"Notes": "Evolve: Feed 1 Blue Gem to evolve into a Polly Bear.",
+		"Variants": ["Sunflower Seed", "Carrot", "Watercress Seed"],
+		"Tricks": ["Peanut Butter (Monkeynut)", "Cinnamonkey"],
+		"Related": ["Raisant", "Sweetooth", "Custacean", "Buzzlegum"]
+	},
+	{
+		"Name": "Flapyak",
+		"Cost": "2100",
+		"Appear Requirements": ["Level 15 Gardener"],
+		"Visit Requirements": ["Use Orange as Bait in Arctic."],
+		"Resident Requirements": [
+			"10% Snow",
+			"Eat 1 Figgy Pudding (Holly Berry)",
+			"Eat 4 Fir Cones"
+		],
+		"Romance Requirements": [
+			"Eat 1 Coffee (Acorn)",
+			"Eat 3 Gooseberries",
+			"Wearing a Daisy in Hair"
+		],
+		"Variants": ["Blueberry", "Watercress Flower", "Chili"],
+		"Tricks": ["Orange Tree Seed", "Orange"]
+	},
+	{
+		"Name": "Flutterscotch (White)",
+		"Cost": "600",
+		"Appear Requirements": ["Have 1 Daisy"],
+		"Visit Requirements": ["Have 2 Daisies"],
+		"Resident Requirements": ["Have 4 Daisies"],
+		"Romance Requirements": ["Eat Snowdrop Flower"],
+		"Tricks": ["Snowdrop Seed", "Bluebell Seed"]
+	},
+	{
+		"Name": "Flutterscotch (Black)",
+		"Cost": "600",
+		"Resident Requirements": ["White Flutterscotch eats 1 Tulip flower"],
+		"Romance Requirements": ["Eat 1 Blackberry"],
+		"Tricks": ["Snowdrop Seed", "Bluebell Seed"]
+	},
+	{
+		"Name": "Flutterscotch (Blue)",
+		"Cost": "600",
+		"Resident Requirements": ["White Flutterscotch eats 1 Bluebell flower."],
+		"Romance Requirements": ["Eat 1 Blueberry"],
+		"Tricks": ["Snowdrop Seed", "Bluebell Seed"]
+	},
+	{
+		"Name": "Flutterscotch (Brown)",
+		"Cost": "600",
+		"Resident Requirements": ["White Flutterscotch eats 1 Bullrush flower."],
+		"Romance Requirements": ["Eat 1 Hazelnut"],
+		"Notes": "''",
+		"Tricks": ["Snowdrop Seed", "Bluebell Seed"]
+	},
+	{
+		"Name": "Flutterscotch (Green)",
+		"Cost": "600",
+		"Resident Requirements": ["White Flutterscotch eats 1 Watercress flower."],
+		"Romance Requirements": ["Eat 1 Gooseberry"],
+		"Tricks": ["Snowdrop Seed", "Bluebell Seed"]
+	},
+	{
+		"Name": "Flutterscotch (Orange)",
+		"Cost": "600",
+		"Resident Requirements": [
+			"White Flutterscotch eats 1 Bird of Paradise flower."
+		],
+		"Romance Requirements": ["Eat 1 Orange"],
+		"Tricks": ["Snowdrop Seed", "Bluebell Seed"]
+	},
+	{
+		"Name": "Flutterscotch (Pink)",
+		"Cost": "600",
+		"Resident Requirements": ["White Flutterscotch eats 1 Water Lily Flower."],
+		"Romance Requirements": ["Eat 1 Radish"],
+		"Tricks": ["Snowdrop Seed", "Bluebell Seed"]
+	},
+	{
+		"Name": "Flutterscotch (Purple)",
+		"Cost": "600",
+		"Resident Requirements": ["White Flutterscotch eats 1 Thistle flower."],
+		"Romance Requirements": ["Eat 1 Turnip"],
+		"Tricks": ["Snowdrop Seed", "Bluebell Seed"]
+	},
+	{
+		"Name": "Flutterscotch (Red)",
+		"Cost": "600",
+		"Resident Requirements": ["White Flutterscotch eats 1 Poppy flower."],
+		"Romance Requirements": ["Eat 1 Holly Berry"],
+		"Tricks": ["Snowdrop Seed", "Bluebell Seed"]
+	},
+	{
+		"Name": "Flutterscotch (Yellow)",
+		"Cost": "600",
+		"Resident Requirements": ["White Flutterscotch eats 1 Buttercup flower."],
+		"Romance Requirements": ["Eat 1 Corn"],
+		"Tricks": ["Snowdrop Seed", "Bluebell Seed"]
+	},
+	{
+		"Name": "FourHeads",
+		"Cost": "3600",
+		"Resident Requirements": [
+			"Tap or Wack Twingersnap Egg after its large jump."
+		],
+		"Romance Requirements": [
+			"Eat 1 S'morepion",
+			"Eat Hemlock",
+			"Eat 1 Lackatoad"
+		],
+		"Variants": ["Bluebell Flower", "Honey", "Medicine (Honey)"],
+		"Tricks": ["Stew (Turnip)", "Mousemallow"],
+		"Related": ["Twingersnap", "S'morepion", "Lackatoad"]
+	},
+	{
+		"Name": "Fudgehog",
+		"Cost": "1000",
+		"Appear Requirements": ["Have Holly Bush"],
+		"Visit Requirements": ["Have Holly Bush", "Have Thistle"],
+		"Resident Requirements": [
+			"Eat 1 Holly Berry",
+			"Eat 1 Thistle",
+			"Have Leaf pile"
+		],
+		"Romance Requirements": ["Eat 1 Milk", "Eat 1 Bread (Corn)"],
+		"Notes": "Evolve: Feed 1 Coconut to evolve into a Parmadillo",
+		"Variants": ["Chili", "Bluebell Seed", "Poison Ivy Flower"],
+		"Tricks": ["Garlic Seed", "Bulb of Garlic"],
+		"Related": ["Parmadillo"]
+	},
+	{
+		"Name": "Galagoogoo",
+		"Cost": "4500",
+		"Appear Requirements": ["Complete Pest Totem"],
+		"Visit Requirements": ["Moon on a Stick Light", "8 Mothdrops or 16 Tulips"],
+		"Resident Requirements": [
+			"Have a watchling",
+			"Eat 2 Mothdrops",
+			"Eat 4 Tulips"
+		],
+		"Romance Requirements": ["Have Chewnicorn", "Eat 4 Orchids"],
+		"Notes": "''",
+		"Variants": ["Sunflower", "Bread (Corn)", "Poison Ivy Flower"],
+		"Tricks": ["Tulip Seed", "Orchid Seed"],
+		"Related": ["Chewnicorn", "Mothdrop"]
+	},
+	{
+		"Name": "Geckie",
+		"Cost": "600",
+		"Appear Requirements": ["Level 1 Gardener"],
+		"Visit Requirements": ["Use snowdrop as bait in Desert"],
+		"Resident Requirements": ["2% Sand", "Eat 1 Flutterscotch"],
+		"Romance Requirements": ["3% Sand", "Eat 1 Mothdrop"],
+		"Variants": ["Pumpkin", "Cactus Flower", "Fireweed Flower"],
+		"Tricks": ["Raisant", "Watercress Flower"],
+		"Related": ["Flutterscotch", "Mothdrop", "Raisant"]
+	},
+	{
+		"Name": "Goobaa",
+		"Cost": "2100",
+		"Appear Requirements": ["4% Long Grass", "Have 5 Snowdrops"],
+		"Unblock Requirements": "Wake Chippo by attracting 5 Candaries.",
+		"Visit Requirements": ["6% Long Grass", "Have 8 Snowdrops"],
+		"Resident Requirements": [
+			"8% Long Grass",
+			"Eat 3 Snowdrops",
+			"Have 12 units of Fence"
+		],
+		"Romance Requirements": [
+			"Eat 2 Poison Ivy Flowers",
+			"Eat 1 Thistle Flower",
+			"Have Wool"
+		],
+		"Notes": "Note: Produces Wool",
+		"Variants": ["Bluebell Flower", "Tulip Seed", "Water Lily Seed"],
+		"Tricks": ["Daisy Flower", "Buttercup Flower"],
+		"Related": ["Candary"]
+	},
+	{
+		"Name": "Hoghurt",
+		"Cost": "2100",
+		"Resident Requirements": [
+			"Evolve: Cheesecake (Cheese(Milk)) to a Rashberry"
+		],
+		"Romance Requirements": [
+			"Wearing Big Jolly Lips",
+			"Wearing Pendant Earrings",
+			"Wearing a Weather Girl",
+			"Wig",
+			"Eat 1 Muffin (Blueberry)"
+		],
+		"Variants": ["Buttercup Flower", "Tulip", "Carrot"],
+		"Tricks": ["Prickly Pear Seed", "Fireweed Flower"],
+		"Related": ["Rashberry"]
+	},
+	{
+		"Name": "Hootyfruity",
+		"Cost": "2800",
+		"Appear Requirements": ["Have Mousemallow House", "Have Sherbat House"],
+		"Visit Requirements": ["Have 5 Mousemallows", "Have 5 Sherbats"],
+		"Resident Requirements": ["Eat 3 Mousemallows", "Eat 2 Sherbats"],
+		"Romance Requirements": [
+			"Eat 1 Squazzil",
+			"Wearing Geek Glasses",
+			"Eat 2 Lemmonings"
+		],
+		"Variants": ["Gooseberry", "Carrot Seed", "Water Lily Seed"],
+		"Tricks": ["Nightshade Seed", "Nightsahde Berry"],
+		"Related": ["Mousemallow", "Sherbat", "Squazzil", "Lemmoning"]
+	},
+	{
+		"Name": "Horstachio",
+		"Cost": "2800",
+		"Appear Requirements": ["Have Hay Bale"],
+		"Visit Requirements": ["50% Grass"],
+		"Resident Requirements": ["50% Grass", "Eat 4 Apples", "Eat 4 Carrots"],
+		"Romance Requirements": [
+			"50% Grass",
+			"Eat 1 Toffee Apple (Apple)",
+			"Eat 1 Horseradish (Radish)",
+			"Wearing Rosette"
+		],
+		"Notes": "Evolve: Feed 1 Daisy and 1 Blackberry to evolve into a Zumbug",
+		"Variants": ["Watercress Flower", "Bluebell Flower", "Chili Seed"],
+		"Tricks": ["Daisy Seed", "Carrot Cake (Carrot)"],
+		"Related": ["Zumbug"]
+	},
+	{
+		"Name": "Jameleon",
+		"Cost": "1500",
+		"Appear Requirements": ["Have 3 Different Colored Flutterscotches"],
+		"Visit Requirements": ["Have 4 Different Colored Flutterscotches"],
+		"Resident Requirements": ["Have 5 Different Colored Flutterscotches"],
+		"Romance Requirements": ["Eat 1 Taffly", "Have Rainbow"],
+		"Variants": ["Bluebell Seed", "Carrot Cake (Carrot)", "Orchid Flower"],
+		"Tricks": ["Taffly", "Buzzlegum"],
+		"Related": ["Flutterscotch", "Taffly", "Buzzlegum"]
+	},
+	{
+		"Name": "Jeli",
+		"Cost": "4500",
+		"Appear Requirements": ["Level 31 Gardener"],
+		"Visit Requirements": ["Use Holly Berry as bait in Arctic"],
+		"Resident Requirements": [
+			"40% Snow",
+			"Eat 3 Banana Splits",
+			"Eat 2 Orchid Seeds"
+		],
+		"Romance Requirements": [
+			"50% Snow",
+			"Have 5 Artic Residents",
+			"Eat 2 Figgy Pudding (HollyBerry)s",
+			"Wearing Snow Shoes"
+		],
+		"Variants": ["Muffin (Blueberry)", "Sunflower Flower", "Medicine (Honey)"],
+		"Tricks": ["Banana", "Orchid Flower"]
+	},
+	{
+		"Name": "Juicygoose",
+		"Cost": "1500",
+		"Appear Requirements": ["Evolove: Feed a Gooseberry to a Quackberry"],
+		"Visit Requirements": ["Trap with any bait in Arctic."],
+		"Resident Requirements": ["8% Snow", "Eat 2 Gooseberries"],
+		"Romance Requirements": [
+			"10% Water",
+			"Have Fish Fountain",
+			"Eat 2 Newtgats"
+		],
+		"Notes": "Fights: Quackberry",
+		"Variants": ["Banana", "Water Lily Seed", "Oak Tree Seed"],
+		"Tricks": ["Gooseberry Seed", "Gooseberry"],
+		"Related": ["Quackberry", "Newtgat"]
+	},
+	{
+		"Name": "Kittyfloss",
+		"Cost": "1500",
+		"Appear Requirements": ["Have 2 Mousemallows", "Must be Nighttime"],
+		"Visit Requirements": ["Have 3 Mousemallows", "Have Milk"],
+		"Resident Requirements": [
+			"Eat 1 Mousemallow",
+			"Eat 1 Milk",
+			"Eat 1 Sparrowmint"
+		],
+		"Romance Requirements": ["Eat 1 Candary", "Eat 1 Lemmoning"],
+		"Notes": "Fights: Barkbark",
+		"Variants": ["Medicine (Honey)", "Bluebell Flower", "Water Lily Flower"],
+		"Tricks": ["Bone", "Jelly (Bone)"],
+		"Related": [
+			"Mousemallow",
+			"Sparrowmint",
+			"Candary",
+			"Lemmoning",
+			"Barkbark"
+		]
+	},
+	{
+		"Name": "Lackatoad",
+		"Cost": "1500",
+		"Resident Requirements": [
+			"Evolve: Feed a Lickatoad a Nightshade Berry",
+			"then hit with shovel."
+		],
+		"Romance Requirements": [
+			"6% Water",
+			"Eat 2 Toadstool",
+			"Eat 2 Hemlock Flowers"
+		],
+		"Notes": "Fights:Salamango",
+		"Variants": ["Bluebell Flower", "Water Lily Seed", "Banana Tree Seed"],
+		"Tricks": ["Nightshade Seed", "Nightshade Berry"],
+		"Related": ["Lickatoad", "Salamango"]
+	},
+	{
+		"Name": "Lemmoning",
+		"Cost": "1000",
+		"Appear Requirements": ["Tame Sour", "Have had Lemmoning"],
+		"Visit Requirements": ["Use sunflower seed as bait in the arctic"],
+		"Resident Requirements": ["4% Snow", "Eat 2 Radishes"],
+		"Romance Requirements": ["4% Snow", "Eat 3 Fir Cones"],
+		"Variants": ["Tiger Lily Flower", "Bluebell Flower", "Pea"],
+		"Tricks": ["Thistle Seed", "Thistle Flower"],
+		"Related": ["Sour Lemmoning"]
+	},
+	{
+		"Name": "Lickatoad",
+		"Cost": "600",
+		"Appear Requirements": ["Have pond shovel"],
+		"Visit Requirements": ["1% Water"],
+		"Resident Requirements": ["2% Water", "Eat 1 Taffly"],
+		"Romance Requirements": ["2% Water", "Eat 1 Green Flutterscotch"],
+		"Notes": "Evolve: Feed 1 Nightshade Berry to evolve into Lackatoad",
+		"Variants": ["Bluebell Seed", "Apple", "Gooseberry"],
+		"Tricks": ["Poppy Flower", "Mousemallow"],
+		"Related": ["Taffly", "Flutterscotch", "Lackatoad"]
+	},
+	{
+		"Name": "Limeoceros",
+		"Cost": "3600",
+		"Appear Requirements": ["Tame Sour", "Have had Limeoceros"],
+		"Visit Requirements": ["Have 5 Thistles"],
+		"Resident Requirements": [
+			"Eat 1 Fireweed Seed",
+			"Eat 1 Prickly Pear Seed",
+			"Eat 1 Thistle Seed"
+		],
+		"Romance Requirements": [
+			"40% Sand",
+			"Eat 2 Coconute",
+			"Wearing Fruit Hat",
+			"Wearing Bling Earrings"
+		],
+		"Notes": "Note: Chases Pester out of garden.",
+		"Variants": ["Blubell Flower", "Cheese (Milk)", "Cactus Flower"],
+		"Tricks": ["Venus Pinata Trap Seed", "Venus Fly Trap Flower"],
+		"Related": ["Sour Limeoceros"]
+	},
+	{
+		"Name": "Macaraccoon",
+		"Cost": "2100",
+		"Appear Requirements": ["Tame Sour", "Have had Macaraccoon"],
+		"Visit Requirements": ["Have 5 Syrupents"],
+		"Resident Requirements": ["Eat 3 Syrupents"],
+		"Romance Requirements": ["Eat 1 Arocknid", "Eat 1 Geckie"],
+		"Notes": "Note: Can fetch romance candy.",
+		"Variants": ["Water Lily Seed", "Mushroom (Toadstool)", "Bluebell Seed"],
+		"Tricks": ["Venus Fly Trap Seed", "Venus Fly Trap Flower"],
+		"Related": ["Sour Macaraccoon", "Syrupent", "Arocknid", "Geckie"]
+	},
+	{
+		"Name": "Mallowolf",
+		"Cost": "2800",
+		"Appear Requirements": ["Tame Sour", "Have had Mallowolf"],
+		"Visit Requirements": ["Have 6 Rashberries"],
+		"Resident Requirements": ["Eat 3 Rashberries"],
+		"Romance Requirements": ["Eat 1 Goobaa", "Eat 1 Juicygoose"],
+		"Notes": "Note: Can scare ruffians out of garden",
+		"Variants": ["Blackberry", "Water Lily Seed", "Bluebell Seed"],
+		"Tricks": ["Dandelion Seed", "Dandelion Flower"],
+		"Related": ["Sour Mallowolf", "Rashberry", "Goobaa", "Juicygoose"]
+	},
+	{
+		"Name": "MooJoo",
+		"Cost": "2800",
+		"Appear Requirements": ["Evolve: Feed Doenut 1 Fir Tree Seed"],
+		"Visit Requirements": ["Trap using Holly Berry in the Arctic"],
+		"Resident Requirements": ["20% Snow", "Eat 2 Fir Cones"],
+		"Romance Requirements": [
+			"25% Snow",
+			"Eat 1 Jam (Blackberry)",
+			"Wearing Caterpilars",
+			"Wearing Doenut Stalker"
+		],
+		"Notes": "''",
+		"Variants": ["Bluebell Flower", "Buttercup Flower", "Watercress Flower"],
+		"Tricks": ["Snowdrop Seed", "Snowdrop Flower"],
+		"Related": ["Doenut"]
+	},
+	{
+		"Name": "Moozipan",
+		"Cost": "2800",
+		"Appear Requirements": ["5% Long Grass", "Have Milkchurn"],
+		"Visit Requirements": [
+			"10 % Long Grass",
+			"Have Milchurn",
+			"Have 10 Buttercups"
+		],
+		"Resident Requirements": [
+			"15% Long Grass",
+			"Eat 2 Gooseberry Fool (Gooseberry)s",
+			"Eat 5 Buttercups"
+		],
+		"Romance Requirements": [
+			"15% Long Grass",
+			"Eat 1 Banana Split (Banana)",
+			"Eat 4 Dandelions"
+		],
+		"Notes": "Note: Produces Milk",
+		"Variants": ["Sandwich", "Banana Tree Seed", "Snapdragon Seed"],
+		"Tricks": ["Milk", "Cheese (Milk)"]
+	},
+	{
+		"Name": "Mothdrop",
+		"Cost": "600",
+		"Appear Requirements": ["Nighttime"],
+		"Visit Requirements": ["Have Garden Light"],
+		"Resident Requirements": ["Have Garden Light", "Eat Bluebell"],
+		"Romance Requirements": ["Eat 1 Hazelnut Seed"],
+		"Variants": ["Daisy Flower", "Turnip", "Watercress Flower"],
+		"Tricks": ["Pumpkin Seed", "Pumpkin"]
+	},
+	{
+		"Name": "Mousemallow",
+		"Cost": "300",
+		"Appear Requirements": ["Have 1 Turnip"],
+		"Visit Requirements": ["Have 1 Turnip"],
+		"Resident Requirements": ["Eat 1 Turnip"],
+		"Romance Requirements": ["Eat 1 Yam"],
+		"Variants": ["Cheese (Milk)", "Bluebell Flower", "Daisy flower"],
+		"Tricks": ["Poppy Seed", "Poppy Flower"]
+	},
+	{
+		"Name": "Newtgat",
+		"Cost": "1000",
+		"Appear Requirements": ["1% Water"],
+		"Visit Requirements": ["3% Water", "Have Watercress"],
+		"Resident Requirements": ["3% Water", "Eat 1 Watercress Flower"],
+		"Romance Requirements": ["3% Water", "Eat 1 Raisant"],
+		"Notes": "Fights: Lackatoad, Lickatoad. Evolve: Feed 1 Chili to evolve into Salamango",
+		"Variants": [
+			"Bluebell Flower",
+			"Bird of Paradise Flower",
+			"Water lily Seed"
+		],
+		"Tricks": ["Taffly", "Flutterscotch"],
+		"Related": ["Lackatoad", "Lickatoad", "Salamango"]
+	},
+	{
+		"Name": "Parmadillo",
+		"Cost": "1500",
+		"Resident Requirements": ["Evolve: Feed Fudgehog 1 Coconut"],
+		"Romance Requirements": ["5% Sand", "Eat 1 Orange Tree Seed"],
+		"Variants": ["Hemlock Flower", "Medicine (Honey)", "Banana"],
+		"Tricks": ["Palm Seed", "Coconut"],
+		"Related": ["Fudgehog"]
+	},
+	{
+		"Name": "Parrybo",
+		"Cost": "3600",
+		"Appear Requirements": ["Have Bird of Paradise"],
+		"Unblock Requirements": "Scare Ruffian by having 2 Mallowolves.",
+		"Visit Requirements": ["Have 2 Bird of Paradises"],
+		"Resident Requirements": [
+			"Eat 3 Bird of Paradise Seeds",
+			"Eat 2 oranges",
+			"Eat 2 Monkeynuts"
+		],
+		"Romance Requirements": [
+			"Have Pirate Statue",
+			"Wearing Eye Patch",
+			"Eat 1 Orchid Seed",
+			"Eat 2 Banana Tree Seeds"
+		],
+		"Variants": ["Venus Pinata Flower", "Cheese (Milk)", "Bluebell Flower"],
+		"Tricks": ["Poppy Seed", "Candary"],
+		"Related": ["Mallowolf", "Candary"]
+	},
+	{
+		"Name": "Peckanmix",
+		"Cost": "2800",
+		"Appear Requirements": ["Have Swanana"],
+		"Visit Requirements": ["Have Birdbath", "Have 3 Peas"],
+		"Resident Requirements": [
+			"Eat 3 Peas",
+			"Eat Blue Flutterscotch",
+			"Eat Green Flutterscotch"
+		],
+		"Romance Requirements": [
+			"Eat Blue Gem",
+			"Eat Pea Soup (Pea)",
+			"Wearing a Tiara"
+		],
+		"Notes": "Fights: Swanana",
+		"Variants": ["Wool", "Pumpkin Seed", "Gooseberry Fool (Gooseberry)"],
+		"Tricks": ["Blueberry", "Waterrcress Flower"],
+		"Related": ["Swanana", "Flutterscotch"]
+	},
+	{
+		"Name": "Pengum",
+		"Cost": "1500",
+		"Appear Requirements": ["Level 2 Gardener"],
+		"Visit Requirements": ["Use Chili as bait in the Arctic"],
+		"Resident Requirements": ["5% Snow", "5% Water", "Eat 1 Newtgat"],
+		"Romance Requirements": [
+			"5% Snow",
+			"Wearing a Bowtie",
+			"Wearing a Monocle",
+			"Wearing a Top Hat"
+		],
+		"Variants": ["Corn", "Turnip", "Poppy Flower"],
+		"Tricks": ["Snowdrop Flower", "Tulip Flower"],
+		"Related": ["Newtgat"]
+	},
+	{
+		"Name": "Pieena",
+		"Cost": "1000",
+		"Appear Requirements": ["Evolve: Feed Pretztail 1 Bone"],
+		"Visit Requirements": ["Trap using orange as bait in the desert."],
+		"Resident Requirements": ["2% Sand", "Eat 1 Bone"],
+		"Romance Requirements": ["3% Sand Eat 1 Chocstrich Egg"],
+		"Notes": "Fights: Chocstrich",
+		"Variants": ["Orange", "Blueberry", "Blackberry"],
+		"Tricks": ["Bone", "Jelly (Bone)"],
+		"Related": ["Pretztail", "Chocstrich"]
+	},
+	{
+		"Name": "Pigxie",
+		"Cost": "3600",
+		"Appear Requirements": ["''"],
+		"Visit Requirements": ["''"],
+		"Resident Requirements": [
+			"Cross Swanana and Rashberry After buying a Mystery House"
+		],
+		"Romance Requirements": [
+			"Pigxie House",
+			"Eat 2 Bullrushes",
+			"Eat 2 Acorns",
+			"Wearing Tap Shoes",
+			"Garden worth 10",
+			"000"
+		],
+		"Notes": "Fights: Rashberry, Swanana",
+		"Variants": [
+			"Bluebell Seed",
+			"Gooseberry Fool (Gooseberry)",
+			"Poppy Flower"
+		],
+		"Tricks": ["Rotten Chili", "Rotten Gooseberry"],
+		"Related": ["Rashberry", "Swanana"]
+	},
+	{
+		"Name": "Pololly Bear",
+		"Cost": "3600",
+		"Appear Requirements": ["Evolve: Feed Fizzlybear 1 Blue Gem"],
+		"Visit Requirements": ["Trap using Snowdrop flower as bait in the arctic."],
+		"Resident Requirements": ["20% Snow", "Eat 3 Blue Gems"],
+		"Romance Requirements": ["25% Snow", "Eat 3 Pengums", "Eat 2 Honey"],
+		"Variants": ["Dandelion Flower", "Water Lily Flower", "Gooseberry"],
+		"Tricks": ["Wool", "Fir Cone"],
+		"Related": ["Fizzlybear", "Pengum"]
+	},
+	{
+		"Name": "Ponocky",
+		"Cost": "2100",
+		"Appear Requirements": ["10% Grass", "Have 10 Carrots", "Have 10 Flowers"],
+		"Unblock Requirements": "Tinker railings into Candy Canes.",
+		"Visit Requirements": ["15% Grass", "Have 10 Carrots", "Have 10 Flowers"],
+		"Resident Requirements": ["20% Grass", "Eat 5 Carrots"],
+		"Romance Requirements": [
+			"Eat 1 Carrot Cake (Carrot)",
+			"Weating Tail Bow",
+			"Have Hay Bale"
+		],
+		"Notes": "Fights: Horstachio, Zumbug",
+		"Variants": ["Bread (Corn)", "Water Lily Flower", "Bluebell Seed"],
+		"Tricks": ["Apple", "Toffee Apple (Apple)"],
+		"Related": ["Horstachio", "Zumbug"]
+	},
+	{
+		"Name": "Pretztail",
+		"Cost": "600",
+		"Appear Requirements": ["Must be night"],
+		"Visit Requirements": ["Have 1 Bunnycomb or Have 1 Tartridge"],
+		"Resident Requirements": ["Eat 1 Bunnycomb or 1 Tartridge"],
+		"Romance Requirements": ["Eat 1 Cluckles"],
+		"Notes": "Evolve: Feed 1 bone to evolve into a Pieena.",
+		"Variants": [
+			"Bluebell Flower",
+			"Water Lily Flower",
+			"Gooseberry Fool (Gooseberry)"
+		],
+		"Tricks": ["Carrot Seed", "Carrot"],
+		"Related": ["Bunnycomb", "Tartridge", "Cluckles", "Pieena"]
+	},
+	{
+		"Name": "Profitamole",
+		"Cost": "1500",
+		"Appear Requirements": ["Tame Sour", "Have had Profitamole"],
+		"Visit Requirements": ["Have 3 Arocknids", "Have 3 Whirlms"],
+		"Resident Requirements": ["Eat 1 Arocknid", "Eat 1 Whirlm"],
+		"Romance Requirements": ["Wearing Bottle Glasses", "Eat 1 Sweetle"],
+		"Notes": "Note: Eats Mine Workings (Dirt Piles)",
+		"Variants": ["Water Lily Seed", "Watercress Flower", "Nightshade Seed"],
+		"Tricks": ["Thistle Seed", "Thistle Flower"],
+		"Related": ["Sour Profitamole", "Arocknid", "Whirlm", "Sweetle"]
+	},
+	{
+		"Name": "Pugeon",
+		"Cost": "2100",
+		"Appear Requirements": ["Have 4 Corn Seeds"],
+		"Unblock Requirements": "Remove Soil with 5 Profitamoles",
+		"Visit Requirements": ["Have 5 Seeds", "Have 1 Bread (Corn)"],
+		"Resident Requirements": [
+			"Eat 5 Seeds",
+			"Eat 1 Bread (Corn)",
+			"Have Bear and Bird \"Banjo\" Statue"
+		],
+		"Romance Requirements": [
+			"Wearing Camera",
+			"Eat 2 Corn Seeds",
+			"Eat 1 Snapdragon Seed",
+			"Have Blackeye Statue"
+		],
+		"Variants": ["Bluebell Flower", "Jam (Blackberry)", "Gooseberry Seed"],
+		"Tricks": ["Sandwich", "Toffee Apple (Apple)"],
+		"Related": ["Profitamole"]
+	},
+	{
+		"Name": "Quackberry",
+		"Cost": "1000",
+		"Appear Requirements": ["3% Water"],
+		"Visit Requirements": ["4% Water", "Have Corn Plant"],
+		"Resident Requirements": ["4% Water", "Eat 1 Bread (Corn)"],
+		"Romance Requirements": ["4% Water", "Eat 1 Custacean"],
+		"Notes": "Evolve: Feed 1 Gooseberry to evolve into a Juicygoose.",
+		"Variants": ["Bluebell Seed", "Water Lily Flower", "Bird of Paradise Seed"],
+		"Tricks": ["Sandwich", "Gooseberry Fool (Gooseberry)"],
+		"Related": ["Custacean", "Juicygoose"]
+	},
+	{
+		"Name": "Raisant",
+		"Cost": "1000",
+		"Appear Requirements": ["Have Bee Hive"],
+		"Visit Requirements": ["Have Honey"],
+		"Resident Requirements": ["Eat 1 Honey"],
+		"Romance Requirements": ["Eat 1 Sandwich"],
+		"Notes": "Fights: Buzzlegum",
+		"Variants": ["Blackberry", "Sunflower", "Water Lily Flower"],
+		"Tricks": ["Buttercup Flower", "Toffee Apple (Apple)"],
+		"Related": ["Buzzlegum"]
+	},
+	{
+		"Name": "Rashberry",
+		"Cost": "1500",
+		"Appear Requirements": ["Have Gooseberry Bush", "Have Chili Plant"],
+		"Visit Requirements": ["Have 3 Gooseberries", "Have 2 Chilies"],
+		"Resident Requirements": [
+			"Eat 2 Rotten Gooseberries",
+			"Eat 2 Rotten Chilies"
+		],
+		"Romance Requirements": [
+			"Eat 1 Pea Soup (Pea)",
+			"Eat Muffin (Blueberry)",
+			"Wearing Nose Ring"
+		],
+		"Notes": "Note: Romance with Swanana for a Pigxie, Evolve: Feed 1 Cheesecake (Cheese(Milk) to evolve into a Hoghurt.",
+		"Variants": ["Watercress Seed", "Poppy Seed", "Nightshade Berry"],
+		"Tricks": ["Bullrush", "Acorn"],
+		"Related": ["Swanana", "Pigxie", "Hoghurt"]
+	},
+	{
+		"Name": "Reddhott",
+		"Cost": "2100",
+		"Resident Requirements": [
+			"Set Taffly on fire",
+			"and douse with watering Can"
+		],
+		"Romance Requirements": [
+			"Eat 2 Radishes",
+			"Eat 1 Fireweed Flower",
+			"Eat 1 Chili"
+		],
+		"Variants": ["Bluebell Seed", "Water Lily Flower", "Carrot Cake (Carrot)"],
+		"Tricks": ["Chili Seed", "Fireweed Seed"],
+		"Related": ["Taffly"]
+	},
+	{
+		"Name": "Roario",
+		"Cost": "5500",
+		"Appear Requirements": ["Level 38 Gardener"],
+		"Visit Requirements": [
+			"Have 5 Doenuts",
+			"Have 5 Zumbugs",
+			"Garden Worth 40K"
+		],
+		"Resident Requirements": [
+			"Eat 2 Doenuts",
+			"Eat 2 Zumbugs",
+			"Garden Worth 50K"
+		],
+		"Romance Requirements": [
+			"Wear Crown",
+			"Garden Worth 60K",
+			"Eat Pinata worth 4",
+			"500"
+		],
+		"Notes": "Fights: Tigermisu, Barkbark, Note: Scares Pinatas",
+		"Variants": ["Medicine (Honey)", "Bluebell Seed", "Sunflower Seed"],
+		"Tricks": ["Pieena", "Whirlm"],
+		"Related": ["Doenut", "Zumbug", "Tigermisu", "Barkbark", "Whirlm", "Pieena"]
+	},
+	{
+		"Name": "Robean",
+		"Cost": "600",
+		"Appear Requirements": ["Level 1 Gardener"],
+		"Visit Requirements": ["Use Holly Berry as bait in Arctic"],
+		"Resident Requirements": ["1% Snow"],
+		"Romance Requirements": ["3% Snow", "Eat 1 Bispotti"],
+		"Variants": ["Fireweed Flower", "Gooseberry Fool (Gooseberry)", "Carrot"],
+		"Tricks": ["Hazelnut Tree Seed", "Hazelnut"],
+		"Related": ["Bispotti"]
+	},
+	{
+		"Name": "S'morepion",
+		"Cost": "1500",
+		"Appear Requirements": ["Tame Sour", "Have had S'morepion"],
+		"Visit Requirements": ["Use Chili as bait in the Desert"],
+		"Resident Requirements": ["5% Sand", "Eat 2 Venus Flytraps"],
+		"Romance Requirements": ["5% Sand", "Eat 3 Nightshade Berries"],
+		"Notes": "Note: Will sting a Ruffian out of the garden.",
+		"Variants": ["Milk", "Cactus Flower", "Jack o' Lantern (Pumpkin)"],
+		"Tricks": ["Toadstool", "Hemlock Flower"],
+		"Related": ["Sour S'morepion"]
+	},
+	{
+		"Name": "Salamango",
+		"Cost": "3600",
+		"Resident Requirements": ["Evolve: Feed Newtgat 1 Chili"],
+		"Romance Requirements": [
+			"Eat 1 Reddhott",
+			"Eat 2 Chili Seed",
+			"Eat 2 Fireweed Seed"
+		],
+		"Notes": "Fights: Lackatoad",
+		"Variants": ["Gooseberry", "Banana", "Milk"],
+		"Tricks": ["Chili", "Fireweed Flower"],
+		"Related": ["Newtgat", "Lackatoad"]
+	},
+	{
+		"Name": "Sarsgorilla",
+		"Cost": "4500",
+		"Appear Requirements": ["Have Bonboon"],
+		"Visit Requirements": [
+			"20% Long Grass",
+			"Have 3 Monkeynut Trees",
+			"Have Baby Bonboon"
+		],
+		"Resident Requirements": [
+			"Eat 4 Coconut Macaroons (Coconut)",
+			"Eat 4 Peanut Butter (Monkeynut)",
+			"Eat 6 Bananas"
+		],
+		"Romance Requirements": [
+			"Eat 2 Bread (Corn)",
+			"Eat 1 Marmalade (Orange)",
+			"Wearing Funky Tie"
+		],
+		"Variants": ["Apple", "Bone", "Pea Soup (Pea)"],
+		"Tricks": ["Monkeynut", "Banana Split (Banana)"],
+		"Related": ["Bonboon"]
+	},
+	{
+		"Name": "Shellybean",
+		"Cost": "600",
+		"Appear Requirements": ["Tame Sour", "Have had Shellybean"],
+		"Visit Requirements": ["Have 1 Thistle"],
+		"Resident Requirements": ["Eat 1 Thistle"],
+		"Romance Requirements": ["Eat 1 Garlic Butter (Garlic)"],
+		"Notes": "Fights: Kittyfloss, Note: Will eat weed seeds.",
+		"Variants": ["Bluebell Flower", "Gooseberry", "Ear of Corn"],
+		"Tricks": ["Poison Ivy Seed", "Poison Ivy Flower"],
+		"Related": ["Sour Shellybean"]
+	},
+	{
+		"Name": "Sherbat",
+		"Cost": "1000",
+		"Appear Requirements": ["Tame Sour", "Have had Sherbat"],
+		"Visit Requirements": ["Have 3 Mothdrops"],
+		"Resident Requirements": [
+			"Eat 2 Mothdrops",
+			"Have Jack o' Lantern (Pumpkin)"
+		],
+		"Romance Requirements": ["Eat 1 Tulip Flower"],
+		"Notes": "Note: Will distract Dastardos at night.",
+		"Variants": ["Bluebell Flower", "Sunflower Seed", "Chili Seed"],
+		"Tricks": ["Dandelion Seed", "Dandelion Flower"],
+		"Related": ["Sour Sherbat", "Mothdrop"]
+	},
+	{
+		"Name": "Smelba",
+		"Cost": "2100",
+		"Appear Requirements": ["Tame Sour", "Have had Smelba"],
+		"Visit Requirements": ["Have 7 Garlics"],
+		"Resident Requirements": ["Eat 3 Rotten Garlics"],
+		"Romance Requirements": [
+			"Eat 2 Air fresheners (Fir Cone)",
+			"Wearing Romantic Flower"
+		],
+		"Notes": "Note: Can spray a ruffian out of the garden.",
+		"Variants": ["Chili", "Fireweed Flower", "Jam (Blackberry)"],
+		"Tricks": ["Poison ivy Seed", "Poison Ivy Flower"],
+		"Related": ["Sour Smelba"]
+	},
+	{
+		"Name": "Sour Bonboon",
+		"Cost": "''",
+		"Appear Requirements": ["Level 35 Gardener"],
+		"Visit Requirements": ["Level 37 Gardener"],
+		"Resident Requirements": ["Lost fight against a syrupent"],
+		"Related": ["Bonboon", "Syrupent"]
+	},
+	{
+		"Name": "Sour Cocoadile",
+		"Cost": "''",
+		"Appear Requirements": ["Level 29 Gardener"],
+		"Visit Requirements": ["Level 31 Gardener"],
+		"Resident Requirements": ["16% Water", "Eat 1 Cherrapin", "Eat 1 Pengum"],
+		"Related": ["Cocoadile", "Cherrapin", "Pengum"]
+	},
+	{
+		"Name": "Sour Crowla",
+		"Cost": "''",
+		"Appear Requirements": ["Level 17 Gardener"],
+		"Visit Requirements": ["Level 19 Gardener"],
+		"Resident Requirements": ["Have 1 Tombstone", "Eat 1 Medicine (Honey)"],
+		"Related": ["Crowla"]
+	},
+	{
+		"Name": "Sour Lemmoning",
+		"Cost": "''",
+		"Appear Requirements": ["Level 6 Gardener"],
+		"Visit Requirements": ["Level 9 Gardener"],
+		"Resident Requirements": [
+			"3% Snow",
+			"Eat 1 Horseradish (Radish)",
+			"Eat 1 Stew (Turnip)"
+		],
+		"Related": ["Lemmoning"]
+	},
+	{
+		"Name": "Sour Limeoceros",
+		"Cost": "''",
+		"Appear Requirements": ["Level 36 Gardener"],
+		"Visit Requirements": ["Level 38 Gardener"],
+		"Resident Requirements": ["Eat 3 Parmadillos"],
+		"Related": ["Limeoceros", "Parmadillo"]
+	},
+	{
+		"Name": "Sour Macaracoon",
+		"Cost": "''",
+		"Appear Requirements": ["Level 26 Gardener"],
+		"Visit Requirements": ["Level 28 Gardener"],
+		"Resident Requirements": ["Eat 1 Cluckles", "Have 5 Master Breeder Awards"],
+		"Related": ["Macaracoon", "Cluckles"]
+	},
+	{
+		"Name": "Sour Mallowolf",
+		"Cost": "''",
+		"Appear Requirements": ["Level 32 Gardener"],
+		"Visit Requirements": ["Level 34 Gardener"],
+		"Resident Requirements": ["Eat 3 Hoghurts"],
+		"Related": ["Mallowolf", "Hoghurt"]
+	},
+	{
+		"Name": "Sour Profitamole",
+		"Cost": "''",
+		"Appear Requirements": ["Level 14 Gardener"],
+		"Visit Requirements": ["Level 16 Gardener"],
+		"Resident Requirements": ["Eat 2 Mushroom (Toadstool)s", "Eat 2 Bispotti"],
+		"Related": ["Profitamole", "Bispotti"]
+	},
+	{
+		"Name": "Sour S'morepion",
+		"Cost": "''",
+		"Appear Requirements": ["Level 20 Gardener"],
+		"Visit Requirements": ["Level 22 Gardener", "Use Bait to trap in Desert"],
+		"Resident Requirements": ["5% Sand", "Eat 2 Buzzlegums"],
+		"Related": ["S'morepion", "Buzzlegum"]
+	},
+	{
+		"Name": "Sour Shellybean",
+		"Cost": "''",
+		"Appear Requirements": ["Level 2 Gardener"],
+		"Visit Requirements": ["Level 7 Gardener"],
+		"Resident Requirements": ["Eat 1 Blackberry Seed", "Eat 1 Radish Seed"],
+		"Related": ["Shellybean"]
+	},
+	{
+		"Name": "Sour Sherbat",
+		"Cost": "''",
+		"Appear Requirements": ["Level 9 Gardener"],
+		"Visit Requirements": ["Level 11 Gardener"],
+		"Resident Requirements": ["Eat 1 Garlic"],
+		"Related": ["Sherbat"]
+	},
+	{
+		"Name": "Sour Smelba",
+		"Cost": "''",
+		"Appear Requirements": ["Level 23 Gardener"],
+		"Visit Requirements": ["Level 25 Gardener"],
+		"Resident Requirements": ["Eat 4 Roses"],
+		"Related": ["Smelba"]
+	},
+	{
+		"Name": "Sparrowmint",
+		"Cost": "300",
+		"Appear Requirements": ["Have 1 Whirlm"],
+		"Visit Requirements": ["Have 2 Whirlms"],
+		"Resident Requirements": ["Eat 1 Whirlm"],
+		"Romance Requirements": ["Eat 1 Bluebell Seed"],
+		"Notes": "Evolve: Feed 1 Dandelion Flower to evolve into a Candary.",
+		"Variants": ["Watercress Flower", "Water Lily Flower", "Thistle Flower"],
+		"Tricks": ["Daisy Seed", "Daisy Flower"],
+		"Related": ["Whirlm", "Candary"]
+	},
+	{
+		"Name": "Squazzil",
+		"Cost": "1000",
+		"Appear Requirements": ["Have Hazelnut Tree"],
+		"Visit Requirements": ["Have 3 Hazelnuts"],
+		"Resident Requirements": ["Eat 3 Hazelnuts"],
+		"Romance Requirements": ["Eat 3 Sunflower Seeds"],
+		"Notes": "Fights: Kittyfloss, Twingersnap",
+		"Variants": ["Water Lily Seed", "Snapdragon Flower", "Watercress Seed"],
+		"Tricks": ["Apple Seed", "Hollybush Seed"],
+		"Related": ["Kittyfloss", "Twingersnap"]
+	},
+	{
+		"Name": "Swanana",
+		"Cost": "2800",
+		"Appear Requirements": ["Level 27 Gardener"],
+		"Unblock Requirements": "Pay Weedling 1K to destroy plants.",
+		"Visit Requirements": ["Have Swan Fountain", "Garden worth 20K"],
+		"Resident Requirements": ["25% Water", "Eat 2 Sandwichs"],
+		"Romance Requirements": [
+			"30% Water",
+			"Eat 3 Water Lily Flowers",
+			"Wearing Diamond Choker"
+		],
+		"Variants": ["Snapdragon", "Gooseberry Seed", "Medicine (Honey)"],
+		"Tricks": ["Gooseberry Newtgat"],
+		"Notes": [
+			"Fights: Pigxie, Quackberry, Juicygoose. Note: Romance with Rashberry will produce Pigxie."
+		],
+
+		"Related": ["Pigxie", "Quackberry", "Juicygoose", "Rashberry"]
+	},
+	{
+		"Name": "Sweetle",
+		"Cost": "300",
+		"Appear Requirements": ["Level 1 Gardener"],
+		"Visit Requirements": ["Have 1 Yam"],
+		"Resident Requirements": ["1% Sand"],
+		"Romance Requirements": ["Have 1% Sand", "Eat 1 Turnip"],
+		"Variants": ["Marmalade (Orange)", "Snowdrop Flower", "Water Lily Seed"],
+		"Tricks": ["Apple Seed", "Carrot"]
+	},
+	{
+		"Name": "Sweetooth",
+		"Cost": "2100",
+		"Appear Requirements": ["10% Water", "Have 1 Fir Tree"],
+		"Visit Requirements": ["12% Water", "Have 1 Fir Tree or Have 1 Water Lily"],
+		"Resident Requirements": [
+			"14% Water",
+			"Eat 3 Fir Cones",
+			"Eat 2 Water Lilies"
+		],
+		"Romance Requirements": ["14% Water", "Eat 3 Bullrushes"],
+		"Variants": ["Bluebell Flower", "Sunflower", "Medicine (Honey)"],
+		"Tricks": ["Monkeynut", "Banana"]
+	},
+	{
+		"Name": "Syrupent",
+		"Cost": "300",
+		"Appear Requirements": ["1% Grass"],
+		"Visit Requirements": ["1% Grass", "Have 2 Mousemallows"],
+		"Resident Requirements": ["2% Grass", "Eat 1 Mousemallow"],
+		"Romance Requirements": ["3% Grass", "Eat 1 Robean"],
+		"Notes": "Fights: Badgesicle, Sour Bonboon. Evolve: Tap or Wack egg after large jump to evolve into a Twingersnap.",
+		"Variants": ["Buttercup Flower", "Bluebell Seed", "Medicine (Honey)"],
+		"Tricks": ["Turnip Seed", "Turnip"],
+		"Related": ["Mousemallow", "Badgesicle", "Sour Bonboon", "Twingersnap"]
+	},
+	{
+		"Name": "Taffly",
+		"Cost": "300",
+		"Appear Requirements": ["Have 2 Daisies"],
+		"Visit Requirements": ["Have 1 Fruit"],
+		"Resident Requirements": ["Eat 1 Fruit"],
+		"Romance Requirements": ["Eat 2 Daisies"],
+		"Notes": "Evolve: Directo to tourch and douse with water to convert to Reddhott.",
+		"Variants": ["Poison Ivy Flower", "Buttercup Seed", "Blackberry Seed"],
+		"Tricks": ["Bluebell Seed", "Bluebell Flower"],
+		"Related": ["Reddhott"]
+	},
+	{
+		"Name": "Tartridge",
+		"Cost": "600",
+		"Appear Requirements": ["Have 5 Daisies"],
+		"Visit Requirements": ["Have 5 Daisies"],
+		"Resident Requirements": ["Eat 3 Daisy Seeds"],
+		"Romance Requirements": ["Eat 1 Sweetle"],
+		"Variants": ["Blueberry", "Orange Tree Seed", "Medicine (Honey)"],
+		"Tricks": ["Radish Seed", "Radish"],
+		"Related": ["Sweetle"]
+	},
+	{
+		"Name": "Tigermisu",
+		"Cost": "5500",
+		"Appear Requirements": ["Have 8 Tiger Lilies"],
+		"Visit Requirements": ["Have 12 Tiger Lilies", "Have 1 Zumbug"],
+		"Resident Requirements": [
+			"Eat 2 Moojoos",
+			"Eat 1 Zumbug",
+			"Eat 1 Buzzlegum"
+		],
+		"Romance Requirements": [
+			"Eat 2 Peckanmixes",
+			"Eat 1 Camello",
+			"Wearing Sabreman Helmet"
+		],
+		"Notes": "Fights: Roario",
+		"Variants": [
+			"Banana Split (Banana)",
+			"Horseradish (Radish)",
+			"Water Lily Flower"
+		],
+		"Tricks": ["Hoghurt", "Flapyak"],
+		"Related": [
+			"Zumbug",
+			"Buzzlegum",
+			"Roario",
+			"Peckanmix",
+			"Camello",
+			"Hoghurt",
+			"Flapyak"
+		]
+	},
+	{
+		"Name": "Twingersnap",
+		"Cost": "1500",
+		"Resident Requirements": ["Tap or Wack Syrupents Egg after large jump."],
+		"Romance Requirements": ["Eat 1 Squazzil", "Eat 1 Tartridge"],
+		"Variants": [
+			"Snapdragon Seed",
+			"Medicine (Honey)",
+			"Venus Pinata Trap Flower"
+		],
+		"Tricks": [
+			"Turnip Stew (Turnip)",
+			"Evolve: Tap or Wack egg after large jump to evolve into a fourhead."
+		],
+		"Related": ["Syrupent", "Squazzil", "Tartridge", "Fourheads"]
+	},
+	{
+		"Name": "Vulchurro",
+		"Cost": "2100",
+		"Appear Requirements": ["Level 12 Gardener"],
+		"Visit Requirements": ["Trap using Chili as bait in the Desert"],
+		"Resident Requirements": ["15% Sand", "Eat 1 Crowla", "Eat 2 bones"],
+		"Romance Requirements": [
+			"20% Sand",
+			"Have 1 Cactus",
+			"Eat 2 Jellies (Bone)"
+		],
+		"Variants": ["Pea", "Bluebell Seed", "Water Lily Flower"],
+		"Tricks": ["Cactus Flower", "Buzzenge"],
+		"Related": ["Crowla", "Buzzenge"]
+	},
+	{
+		"Name": "Walrusk",
+		"Cost": "2800",
+		"Appear Requirements": ["10% Snow", "10% Water"],
+		"Visit Requirements": ["15% Snow", "15% Water", "Have 5 Bullrushes"],
+		"Resident Requirements": [
+			"20% Snow",
+			"20% Water",
+			"Eat 3 Bullrushes",
+			"Eat 1 Custacean"
+		],
+		"Romance Requirements": [
+			"Eat 2 Watercress Flowers",
+			"Eat 3 Radishes",
+			"Wearing Bushy Mustache"
+		],
+		"Variants": ["Pea", "Snapdragon Flower", "Medicine (Honey)"],
+		"Tricks": ["Bullrush Seed", "Watercress Seed"],
+		"Related": ["Custacean"]
+	},
+	{
+		"Name": "Whirlm",
+		"Cost": "100",
+		"Appear Requirements": ["1% Dirt'"],
+		"Visit Requirements": ["1% Dirt"],
+		"Resident Requirements": ["Turnip"],
+		"Romance Requirements": ["Water Lily Seed"],
+		"Variants": ["Watercress Seed", "Buttercup Seed", "Buttercup Flower"],
+		"Tricks": ["''"]
+	},
+	{
+		"Name": "Zumbug",
+		"Cost": "3600",
+		"Appear Requirements": ["Evolve: Feed Horstachio 1 Blackberry + 1 Daisy"],
+		"Romance Requirements": [
+			"30% Long Grass",
+			"Eat 3 Orchids",
+			"Eat 1 Jam (Blackberry)"
+		],
+		"Notes": "Fights: Chewnicorn, Hostachio, Ponocky",
+		"Variants": ["Blubell Seed", "Water Lily Seed", "Carot Cake"],
+		"Tricks": ["Daisy Flower", "Blackberry"],
+		"Related": ["Horstachio", "Chewnicorn", "Ponocky"]
+	}
+]
